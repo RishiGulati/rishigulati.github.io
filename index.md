@@ -1,6 +1,6 @@
 ## Welcome to my Profile
 
-<a><img src="Rishi.jpg" align="right" height="130" width="120" ></a>
+<a><img src="Rishi.jpg" align="right" height="120" width="120" ></a>
 
 - Email Id: rishi90gulati@gmail.com, Mob: +91- 9899094886
 - [Rishi's Linkedin](https://www.linkedin.com/in/rgcool/)
