@@ -2,9 +2,8 @@
 
 <a><img src="sahil.jpg" align="right" height="130" width="100" ></a>
 
-- Email Id: sahilgulati102@gmail.com, Mob: +91- 9752795950
-- [Sahil's GitHub](https://github.com/sahilgulati96)
-- [Sahil's Linkedin](https://www.linkedin.com/in/sahil-gulati-39400b113/)
+- Email Id: rishi90gulati@gmail.com, Mob: +91- 9899094886
+- [Rishi's Linkedin](https://www.linkedin.com/in/rgcool/)
 
 ## About Me
 
