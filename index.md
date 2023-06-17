@@ -24,7 +24,7 @@
 
 ## Skills
 
-| Skill Set | 
+| Skill Set & Experience on tools| 
 | ------------- |
 |  Skills: Manual Testing, Automation testing, API Testing Web Application Testing, Mobile apps testing, GPS Testing, Load testing, Performance Testing & Report writing, Android Debug Bridge, Test cases, Test	Report, Bug tracking tools.
 |  Programming Languages:  Java
@@ -40,55 +40,53 @@
 
 ## Professional Summary
 
-### Devops Engineer, Deutsche Telekom Digital Labs
-May 2022 - Present
+### Team Lead Engineer, Google India 
+Sept 2018 - Present
 
-- Automatation of Copyback Process for Database and EFS across multiple account from prod to non-prod environments ensuring no senstive data leakage.
-- Migration of our existing on-prem Jira to cloud infrastructure on AWS.
-- Create and maintain environment for Jira/Confluence team and assist them in the debugging of any infrastructure and performance related issues.
-- Setup and manage infrastructure on AWS using CloudFormation templates and aws cli.
-- Create and Manage Gitlab Repository and Pipeline for infrastructure and micro-services deployment. 
-- Create AMI’s on AWS using packer and maintain configuration of application using ansible.
-- Participate in agile ceremonies and PI planning to understand features and requirement from the business.
-- Work on new enchancement and upgrades for Jira to ensure 100% uptime for our Customers.
+- Leading a team of 11-person, Owner of all frontend QA activities, Project Management, Bug triaging & in house Application performance testing.
+- Responsible for Bug triaging and log analysis
+- Responsible for API Testing on Web Applications project.
+- Managing and coordinating with teams on different GEOs like US, Taiwan & Hongkong.
+- Coordinating with Project lead for smooth work process and quarterly updates.
+- Google Android new build verification and Validation.
+- Performance testing of mobile applications.
+- CTS/GTS/VTS bug analysis and approval
+- Testing of Android applications and all other features like GPS, Stress Testing & Log analysis.
+
+### Sr.Research And Development Engineer , Panasonic India
+Aug 2017 - Sept 2018
+
+- Responsible for performance testing in mobile application which includes different scenario like latency calculation, FPS calculation, & device Graphics testing
+- Worked with vendors in Shenzhen (China) for testing & QA process of Panasonic, India.
+- GPS and GLONASS Testing of device and NMEA logs analysis.
+- Responsible for Perform QC as a part of the Quality team while production.
+- Responsible for maintaining quality standard as per internationalized product standard.
+
+### Sr. Software Test Engineer , Micromax India & Russia
+Mar 2014 - Aug 2017
+
+- Responsible for android mobile app testing and Quality assurance process.
+- Conduct Testing and QA process of Micromax international product in Moscow (Russia).
+- Responsible for regulating govt. standard for Digital India and Dual stack initiative.
+- Responsible for automation testing of Micromax in-house ‘ESS portal’ using selenium Web driver.
 
 
-### DevOps Consultant, HCL Technologies
-May 2021-May 2022
+### Achievements
 
-- Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
-- Doing Deployment on Production Environment and help developer to triage any issue on non-prod environments, Setting up Application and IIS web Server, configure routing and setup monitoring using AppDynamics and Splunk.
-- Perform Disaster Recovery Test, Setup SSL certificates for Application and Web Servers.
-- Working as a Lead for the DevOps Team and mentoring them through the application and process.
-- Create Branching Strategy for the dev team and enforcing the standards and naming convention on GitHub.
-- Regularly Participate in PI planning with the Dev’s and Clients to understand the requirement, formulate the plan and timelines for the deliverables.
+- Promoted to “QA lead“ for outstanding performance in projects across all GEOs.
+- Awarded “Excellent outstanding Performer” award in 2021 for Google, India workflow process.
+- Completed six week “Smartphone Design Training Program-2018” conducted by Mediatek, Taiwan.
+- Selected in Panasonic Mobility team to work with vendor in Shenzhen, China for June-July 2018
+- Top rated performer in the team at Panasonic, India for session 2017-18.
+- Awarded “Excellent Performer” in Micromax Informatics Ltd for consistent performance in 2014 and 2015.
+- Merit of being selected from the Testing team to work with Micromax Russia team in Moscow as a regular employee in Dec-2016.
+- Selected to work for a project with Qualcomm in Moscow as a regular Employee.
+- Got Selected in a team to work with a vendor office in Shanghai ,China in May-2017.
+- Represented Micromax on Dual Stack meeting with DOT & ICA members.
+- Represented Micromax on Digital India meeting with Deity members.
+- Represented Micromax in a project with Himachal govt. , Shimla.
 
-### Software Engineer, Accenture
-Oct 2018 - May 2021
-
-- Doing Deployments on the Production environment and troubleshooting any issues encountered during and post deployment.
-- Creation of Splunk reports and Dashboards on Splunk Cloud instances using Splunk queries and managing forwarders configuration on the prod and non-prod servers.
-- Creation of Alerts and setup monitoring for SAP hybris Cloud.
-- Managing and fixing runtime issues on Production servers hosted on Rackspace and monitoring them using AppDynamics.
-- Responsible for implementing Cloud migration of Rackspace hosted servers to SAP Cloud.
-- Using SCM tool bitbucket and managing source code. In addition to that resolving merge conflicts, creating branches and polling the branches to Bamboo jobs.
-- Supporting development teams, testing teams in using CI/CD, troubleshooting in any build failures or any errors, giving sessions in using automated flows and DevOps capabilities.
-- Managing PERF, UAT and Dev environments, managing build and deployment activities on these environments.
-- Submitted Whitepaper on the concept of “Work When You Get Alert” in GHCI-2020.
-
-## Charity Projects
-Projects done to help people to bring thier bussiness online during pandemic.
-
-### [theAstroCare.com](https://theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)} (May 2020)
-Role: AWS Architect and DevOps Engineer
-
-- Design and Setup Architecture for the website on AWS and setting up the connection between services.
-- Setting up Version Control on GitHub and Deployment pipeline on using GitHub Workflows.
-- Setup SSL Certificates and content Delivery Network using CloudFront.
-- Setup cNames and Alias in the hosted zone for the domain on Route53.
-- Setup S3 Bucket for the static content of the website and Google API for the backend flow.
-
-## Certifications
+## Global Work Exposure
 
 <!-- - [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)-->
 - [AWS certified Solution Architect – Associate (May 2020).](https://drive.google.com/file/d/1c4yYsJI05XNnJr3dX7nZhfT4cNOjTRFA/view?usp=sharing)
