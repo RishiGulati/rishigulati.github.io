@@ -24,8 +24,8 @@
 
 ## Skills
 
-| Skill Set | Tools and Tech Used |
-| ------------- | ------------- |
+| Skill Set | 
+| ------------- |
 |  Skills: Manual Testing, Automation testing, API Testing Web Application Testing, Mobile apps testing, GPS Testing, Load testing, Performance Testing & Report writing, Android Debug Bridge, Test cases, Test	Report, Bug tracking tools.
 |  Programming Languages:  Java
 |  API Testing: REST-ASSURED, Postman 
