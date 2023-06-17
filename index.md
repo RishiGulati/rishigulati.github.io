@@ -87,7 +87,7 @@ Mar 2014 - Aug 2017
 - Represented Micromax in a project with Himachal govt. , Shimla.
 
 ## Global Work Exposure
-<a><img src="Screenshot 2023-06-17 at 4.08.39 PM.png" align="right" height="150" width="600" ></a>
+<a><img src="Screenshot 2023-06-17 at 4.08.39 PM.png" align="center" height="150" width="700" ></a>
 
 
 
