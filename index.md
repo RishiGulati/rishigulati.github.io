@@ -87,10 +87,7 @@ Mar 2014 - Aug 2017
 - Represented Micromax in a project with Himachal govt. , Shimla.
 
 ## Global Work Exposure
-
-<!-- - [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)-->
-- [AWS certified Solution Architect – Associate (May 2020).](https://drive.google.com/file/d/1c4yYsJI05XNnJr3dX7nZhfT4cNOjTRFA/view?usp=sharing)
-<!--- [Project Management by Adelaide University, Australia (Oct 2017)](https://drive.google.com/file/d/1ib7RsY9sfM9b0e1Eo1mzq6LfXTsqeZHM/view?usp=sharing) -->
+<a><img src="Screenshot 2023-06-17 at 4.08.39 PM.png" align="right" height="150" width="600" ></a>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42c2a6b9-c168-4560-a51c-b01d8a7906b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
