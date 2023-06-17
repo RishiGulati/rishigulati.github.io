@@ -7,32 +7,36 @@
 
 ## About Me
 
-- AWS Certified Solution Architect and DevOps Engineer with 4+ years of experience in DevOps and SRE.
-- Good knowledge of Software Development Life Cycle.
-- Good Knowledge on implementing Devops methodology to improve site reliability and platform stability.
-- A versatile and dynamic personality who is always eager to learn and implement new technology to improve the existing way of delivering the quality deliverable to the client without compromising with the timeline.
-- Extensive experience in implementing continuous integration and cloud using DevOps tools including docker, Selenium, Maven, Splunk, AppD, AWS and Jenkins.
-- Hands-on Experience in designing the architecture on AWS and setup up DevOps Pipeline using GitLab CI.
-- Responsible for deployment and management of production and non-production environments.
-- Experience in Setting up Application Server, Infrastructure and creating pipelines using Jenkins.
+- Having more than 9 years of experience in Software Testing which includes 4+ years of Automation testing experience in tools like API (Rest Assured), Selenium Web Driver.
+- 5+ years of experience in Project Management, Team leading, Team Managment & Release planning activities 
+- Experience in Managing & coordinating with teams on different GEOs  
+- Experience in Web Application & Mobile Application testing.
+- Good Understanding of Restful API using REST Assured.
+- Experience in using testing framework like TestNG
+- Good understanding of API testing using the POSTMAN tool.
+- Experienced in Load testing using J-meter
+- Expertise in GPS Testing and Logs Analysis.
+- Expertise in Performance Testing of Mobile devices.
+- Expertise in Google compatibility suits like CTS/GTS/VTS/STS
+- Ability to perform the whole project testing and to write, execute & review the test cases independently
+
 
 
 ## Skills
 
 | Skill Set | Tools and Tech Used |
 | ------------- | ------------- |
-| CI/CD Deployment  | Jenkins, Gitlab CI  |
-| Build Tools  | Ant,  Maven  |
-| Containers and Management | Docker, Kubernetes |
-| Monitoring | Splunk, AppDynamics |
-| Operating Systems | Linux and Windows Server |
-| Version Control | Git and Gitlab |
-| Automated Test | Selenium |
-| Scripting | Shell and Powershell |
-| Programming Skills | Java, Python |
-| Cloud | AWS, SAP Cloud |
-| Infrastructure as Code | AWS Cloudformation |
-| Server Management | Ansible |
+|  Skills: Manual Testing, Automation testing, API Testing Web Application Testing, Mobile apps testing, GPS Testing, Load testing, Performance Testing & Report writing, Android Debug Bridge, Test cases, Test	Report, Bug tracking tools.
+|  Programming Languages:  Java
+|  API Testing: REST-ASSURED, Postman 
+|  Working knowledge of Test Automation framework like TestNG, JUnit
+|  GNSS Testing: GPS & GLONASS Testing and Logs analysis.
+|  Performance Testing: Launch latency, Game Dashboard, FPS Analysis and system benchmarking to test the device performance in   terms of read/write capabilities and graphic testing.
+|  Strong documentation and report-writing skills.
+|  Testing Tool: Selenium Web Driver, POSTMAN, J-meter & Android Debug Bridge.
+|  Bug Tracking tools: Mantis, JIRA, PMT & Google Buganizer.
+|  Database:  MySQL
+|  OS: Window, Mac, Google Chrome OS & Linux
 
 ## Professional Summary
 
