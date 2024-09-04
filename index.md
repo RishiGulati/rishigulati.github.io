@@ -7,7 +7,7 @@
 
 ## About Me
 
-- Having more than 9 years of experience in Software Testing which includes 4+ years of Automation testing experience in tools like API (Rest Assured), Selenium Web Driver.
+- Having more than 10 years of experience in Software Testing which includes 4+ years of Automation testing experience in tools like API (Rest Assured), Selenium Web Driver.
 - 5+ years of experience in Project Management, Team leading, Team Managment & Release planning activities 
 - Experience in Managing & coordinating with teams on different GEOs  
 - Experience in Web Application & Mobile Application testing.
@@ -73,6 +73,7 @@ Mar 2014 - Aug 2017
 
 ### Achievements
 
+- Awarded as "Steller Achiver" in 2024 by Client (Google).
 - Promoted to “QA lead“ for outstanding performance in projects across all GEOs.
 - Awarded “Excellent outstanding Performer” award in 2021 for Google, India workflow process.
 - Completed six week “Smartphone Design Training Program-2018” conducted by Mediatek, Taiwan.
